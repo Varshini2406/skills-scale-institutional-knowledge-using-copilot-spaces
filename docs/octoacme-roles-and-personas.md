@@ -100,4 +100,3 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 - Designs user experience
 - Conducts usability testing
 - Collaborates on feature design
-
