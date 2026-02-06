@@ -79,3 +79,25 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
 
+## Additional Project Management Personas
+
+### Product Owner
+- Owns product vision and roadmap
+- Prioritizes backlog items
+- Acts as customer representative
+
+### Technical Lead
+- Oversees technical architecture
+- Ensures code quality
+- Supports development team
+
+### QA Lead
+- Defines test strategy
+- Ensures product quality
+- Manages defect resolution
+
+### UX/UI Designer
+- Designs user experience
+- Conducts usability testing
+- Collaborates on feature design
+
